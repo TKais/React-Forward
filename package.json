@@ -4,6 +4,7 @@
   "description": "Learning react",
   "main": "index.js",
   "scripts": {
+    "jspm": "jspm",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
